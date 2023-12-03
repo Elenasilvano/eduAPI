@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.FreeLine{
+    font-family: 'FreeLine', sans-serif;
+}
+
+                                                
